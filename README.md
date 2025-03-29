@@ -14,7 +14,7 @@ Este repositório é dedicado à prática e ao aprofundamento na biblioteca **Pa
    ```
 2. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/jornada_pandas.git
+   git clone https://github.com/KelvynAmaral/jornada_pandas.git
    ```
 3. Navegue até a pasta do projeto:
    ```sh
